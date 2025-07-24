@@ -1,0 +1,36 @@
+WATERFALL MODEL OF SOFTWARE DEVELOPMENT:
+
+The waterfall model takes place in a fixed order with rigid and formal rules, and the project development team only moves to the next stage of development or testing when the previous step has been successfully completed.
+
+
+
+AGILE METHODS OF SOFTWARE DEVELOPMENT:
+Agile methodology supports the simultaneous iteration of development and testing in the software development process, which automatically leads to greater communication between clients, developers, managers and testers.
+
+
+
+
+
+SCRUM METHOD OF SOFTWARE DEVELOPMENT
+
+Scrum model:
+1. Planning
+2. Implementation
+3. Delivery
+ASPECTS OF TESTING (Types of testing, strategies, methodology, levels)
+
+
+VERIFICATION VS VALIDATION
+
+
+NON-FUNCTIONAL TYPES OF TESTING
+
+TEST PLAN, main and individual plan
+
+
+TEST DATA
+
+TEST CASES
+
+
+
